@@ -5,7 +5,7 @@ public class Main
         {
                 int a=10;
                 int b=20;
-                System.out.print(a);
+                System.out.print(a+b);
         }
 }
 ~                                                                               
